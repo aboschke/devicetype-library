@@ -180,3 +180,9 @@ interfaces:
   - name: Ten-GigabitEthernet1/0/52
     type: 10gbase-x-sfpp
     mgmt_only: false
+  - name: Ten-GigabitEthernet1/0/53
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+  - name: Ten-GigabitEthernet1/0/54
+    type: 10gbase-x-sfpp
+    mgmt_only: false
